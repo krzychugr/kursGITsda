@@ -1,3 +1,3 @@
 Ala ma kota.
 
-Dodatkowe zmiany w master poza testing.
+Dodatkowe zmiany w feature #1 poza master.
